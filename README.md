@@ -1,5 +1,7 @@
 # About
 self-taught developer and security engineer interested in reverse engineering, cyber security, etc.
+
+also here's someone who make some really cool stuff and nobody knows him: <a href="https://github.com/AleksaMCode">AleksaMCode</a>
 __________________________________________________
 
 if you liked my work you can donate!
