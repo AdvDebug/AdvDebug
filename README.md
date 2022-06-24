@@ -6,7 +6,7 @@ __________________________________________________
 
 if you liked my work you can donate!
 
-BTC Address: bc1qrqxd8dtuet3hx6743cwt5zujqf5gnheqlzxjq0
+BTC Address: bc1qsn34e0lvtw6y4a63duwffj7qxwm47rl9zmsntl
 
 ___________________________________________________
 
