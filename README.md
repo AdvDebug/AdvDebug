@@ -10,4 +10,4 @@ BTC Address: bc1qsn34e0lvtw6y4a63duwffj7qxwm47rl9zmsntl
 
 ___________________________________________________
 
-Discord Username: Ahmed minegames#4108
+Discord Username: Ahmed minegames#4108 (sorry i don't accept working on projects with anyone anymore because of my shortage in time, i just make/update little projects  on my repo in my free time)
