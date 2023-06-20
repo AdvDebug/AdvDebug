@@ -10,4 +10,4 @@ BTC Address: bc1qsn34e0lvtw6y4a63duwffj7qxwm47rl9zmsntl
 
 ___________________________________________________
 
-Discord Username: AdvDebug#4108
+Discord Username: advdebug
