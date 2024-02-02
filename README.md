@@ -1,4 +1,5 @@
 # Welcome to my profile!
+![Discord](https://discord.c99.nl/widget/theme-1/545260988388212736.png)
 self-taught developer and security engineer interested in reverse engineering, cyber security, etc.
 
 * i love low-level programming ❤
